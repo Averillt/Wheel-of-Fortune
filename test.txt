@@ -1,0 +1,15 @@
+using a do while,evil,easy
+a bright future,phrase,easy
+a cheap shot,phrase,easy
+alvin & the chipmunks,fictional character,medium
+aphrodite goddess of love,fictional character,medium
+airport and project runway,same name,medium
+assigned parking and storage space,same name,hard
+ball four by jim boulton,title and author,hard
+first day on the job,event,hard
+another random easy,rand,easy
+another random medium,rand,medium
+another random hard,rand,hard
+this is thing one,thing,easy
+this is thing two,thing,medium
+this is thing three,thing,easy
